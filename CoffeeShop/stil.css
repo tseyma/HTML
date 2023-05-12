@@ -1,0 +1,45 @@
+/* stil.css */
+
+body {
+    background-color:antiquewhite;
+    font-family: Arial, sans-serif;
+    color:black;
+  }
+  
+  h1{
+    color: blueviolet;
+    text-align: center;
+   }
+  h2{
+    color: blueviolet;
+    text-align: center;
+    
+   }
+  p {
+    font-size: 14px;
+    line-height: 1.5;
+  }
+  img {
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    
+  
+   
+  }
+ 
+  .navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow:visible;
+    margin-left: auto;
+    margin-right: auto;
+    float:left;
+   
+    display:flex;
+    padding:8px;
+    background-color: #dddddd;
+  }
+  
+ 
